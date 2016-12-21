@@ -1,5 +1,5 @@
 # DiceSumStats
-## DiceSumStatistics or in other words, the number of possible ways per possible sum of multiple dice
+## DiceSumStatistics or in other words, the number of ways to sum up to each number using a set of dice
 
 This tool can be used to see how many ways you can combine dice together to sum up to a particular number.
 
