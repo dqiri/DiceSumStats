@@ -26,7 +26,7 @@ And then you can manually see each sum, and then add up every occurence. Managab
 
 But then what about a 3rd dice?
 
-A 3D chart? I guess we can always use polynomial numbers/pascal's triangle or some obscure discrete formula that calculates multinomial coefficient (With n being number of dice in a roll, nd3 uses https://oeis.org/A027907 , nd4 uses https://oeis.org/A008287 , nd5 uses https://oeis.org/A035343 , nd6 uses https://oeis.org/A063260 etc.)
+A 3D chart? I guess we can always use polynomial numbers/pascal's triangle or some obscure discrete formula that calculates multinomial coefficient (With n being number of dice in a roll, nd2 can be seen with pascal's triangle, nd3 uses https://oeis.org/A027907 , nd4 uses https://oeis.org/A008287 , nd5 uses https://oeis.org/A035343 , nd6 uses https://oeis.org/A063260 etc.)
 
 But then what about a 4th dice? That's not even a d6???
 
