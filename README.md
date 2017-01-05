@@ -7,7 +7,7 @@ This tool can be used to see how many ways you can combine dice together to sum 
 Code still needs some cleanup for the new DP solution.
 
 ## Concept
-Consider the classic 2d6 problem. Imagine you have two six-sided fair dice. You roll the two dice and sum those numbers. How man times does each particular sum occur? In other words, how many ways can you combine two dice to sum up to 1, 2, 3, ..., max(d6) + max(d6)?
+Consider the classic 2d6 problem. Imagine you have two six-sided fair dice. You roll the two dice and sum those numbers. How many times does each particular sum occur? In other words, how many ways can you combine two dice to sum up to 1, 2, 3, ..., 12 (6+6)?
 One could use a chart to show the combination of the first dice with the second dice.
 
 For example,
